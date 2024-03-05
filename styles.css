@@ -1,0 +1,172 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: grey; /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+        /*background-image:url(https://static.scientificamerican.com/sciam/cache/file/D1E779C2-5585-48B9-B5B8CA83481D212C_source.jpg); */
+        
+        
+        }
+
+.top{
+    background-color:darkgreen;
+    height:60px;
+    width: 100%;
+    color: white;
+}
+
+.one{
+    background-color:#8EBD8E;
+    height:350px;
+    width: 50%;
+    float: left;
+    color: white;
+}
+
+.two{
+    background-color:#8EBD8E;
+    height:350px;
+    width: 20%;
+    float: left;
+}
+
+.three{
+    background-color:#8EBD8E;
+    height:350px;
+    width: 50%;
+    float: left;
+    color: white;
+}
+
+.header{
+  background-color: #7EA89B;
+  width: 100%;
+  height: 90px;
+
+} 
+
+.small{
+    background-color:darkgreen;
+    width: 100%;
+    height: 180px;
+    float: left;
+    display: block;
+    color:white ;
+    font-size:18;
+}
+
+
+.small1{
+ background-color:darkgreen;
+ width: 50%;
+ height: 300px;
+ float: right;
+ 
+}
+
+nav{
+background-color: #7EA89B;
+width: 80%;
+height: 30px;
+margin-left: 5%; /*the space to left*/
+margin-top: 5%; /*the space above the box*/
+}
+
+ul{
+list-style-type: none; /*removes the bullets*/
+}
+
+li{
+float: left; /*makes the links go next to each other*/
+}
+
+li a{
+display: block; /*takes up the whole width*/
+color: white; /*colours the text*/
+font-size: 38px; /*colours the text*/
+text-align: center; /*will centre the text*/
+text-decoration: none; /*removes the underline*/
+padding-top: 5px; /* adds space above the links*/
+padding-left: 20px; /*adds space between the links*/
+}
+
+.li a:hover {
+    color:mediumseagreen; /*changes text colour on hover*/
+}
+
+h1 {
+color:white;
+font-size:36px;
+}
+
+small  {
+color:white ;
+}
+
+.smalll {
+color:white ;
+}
+
+h3  {
+    color:white  ;
+}
+
+h4  {
+    color:white ;
+
+}
+
+title  {
+    color: white ;
+}
+
+h2  {
+    color: white ; 
+}
+
+.four  {
+    color :white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
